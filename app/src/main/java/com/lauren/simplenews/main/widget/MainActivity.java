@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
     private Toolbar mToolbar;
     private NavigationView mNavigationView;
     private MainPresenter mMainPresenter;
+    //Add note
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
